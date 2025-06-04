@@ -21,15 +21,17 @@ header {
 
 }
 
-.test {
+.testo {
   width: max-content;
   height: 50px;
   vertical-align: middle;
   display: inline-block;
   font-size: 3rem;
+  font-weight: bold;
 }
 
 .main-container {
+  padding-top: 20px;
   width: 900px;
   height: 800px;
   margin: 0 auto;
@@ -38,10 +40,30 @@ header {
 }
 
 .secondary-container {
-  height: 100px;
+  height: 50px;
+  border: 1px solid gray;
+}
+
+.main-container .secondary-container .rettangolo {
   border: 1px solid black;
+  width: 90px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 10px;
 
+}
 
+#blu {
+  /*margin-left: 30px;*/
+  background-color: #46AFE9;
+  color: white;
+}
+
+#bianco {
+  border: 2px solid gray;
+  color: gray;
 }
 
 .first-list {
