@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  ;
+
 }
 
 header {
@@ -32,26 +32,42 @@ header {
 
 .main-container {
   padding-top: 20px;
-  width: 900px;
+  width: 1000px;
   height: 800px;
   margin: 0 auto;
   border: 1px solid black;
   border-radius: 10px;
+  border-left: 10px;
+
 }
 
 .secondary-container {
-  height: 50px;
   border: 1px solid gray;
+  height: 40px;
+  padding-bottom: 10px;
 }
 
 .rettangolo {
   border: 1px solid black;
-  width: 90px;
-  height: 40px;
-  line-height: 40px;
+  width: 75px;
+  height: 25px;
+  line-height: 20px;
   display: inline-block;
   text-align: center;
   border-radius: 10px;
+  font-size: 0.8rem;
+
+}
+
+.rettangolo1 {
+  border: 1px solid gray;
+  width: 90px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 1rem;
 
 }
 
@@ -124,7 +140,9 @@ header {
 }
 
 .second-list {
-  height: 350px;
+  font-size: 1.5rem;
+  padding-top: 25px;
+  padding-bottom: 25px;
   border: 1px solid black;
 
 
@@ -132,6 +150,7 @@ header {
 
 
 .third-list {
+  font-size: 1.5rem;
   border: 1px solid black;
 
 }
