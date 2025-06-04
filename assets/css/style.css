@@ -66,6 +66,30 @@ header {
   color: gray;
 }
 
+#puprle {
+  background-color: #936ED5;
+  color: white;
+}
+
+#seagreen {
+  background-color: #65C0A6;
+  color: white;
+}
+
+#orange {
+  background-color: #F7A833;
+  color: white;
+}
+
+#fuscia {
+  background-color: #D765A0;
+  color: white;
+}
+
+#lightgreen {
+  background-color: #AFC92A;
+  color: white;
+}
 
 .mark {
   border: 1px solid seagreen;
