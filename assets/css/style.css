@@ -77,6 +77,15 @@ header {
 
 }
 
+.mark1 {
+  border: 1px solid red;
+  color: red;
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  text-align: center;
+}
+
 
 .first-list {
   height: 100px;
