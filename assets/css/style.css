@@ -28,3 +28,11 @@ header {
   display: inline-block;
   font-size: 3rem;
 }
+
+.main-container {
+  width: 900px;
+  height: 800px;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 10px;
+}
