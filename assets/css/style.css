@@ -36,3 +36,30 @@ header {
   border: 1px solid black;
   border-radius: 10px;
 }
+
+.secondary-container {
+  height: 100px;
+  border: 1px solid black;
+
+
+}
+
+.first-list {
+  height: 100px;
+  border: 1px solid black;
+
+
+}
+
+.second-list {
+  height: 350px;
+  border: 1px solid black;
+
+
+}
+
+
+.third-list {
+  border: 1px solid black;
+
+}
