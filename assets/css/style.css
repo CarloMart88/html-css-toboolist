@@ -5,11 +5,11 @@
 }
 
 header {
-  border: 1px solid #F6F8FA;
+  border-bottom: 5px solid #F3F5F7;
   height: 90px;
   padding-left: 20px;
   padding-top: 20px;
-
+  background-color: ;
 }
 
 .logo {
@@ -37,6 +37,7 @@ header {
   margin: 30px auto;
   border-radius: 10px;
   border-left: 10px;
+
 
 }
 
@@ -126,6 +127,7 @@ header {
 
 
 .first-list {
+  border-top: lightgray 1px solid;
   height: 140px;
   font-size: 1.5rem;
   padding-top: 50px;
