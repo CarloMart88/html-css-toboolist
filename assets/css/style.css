@@ -44,7 +44,7 @@ header {
   border: 1px solid gray;
 }
 
-.main-container .secondary-container .rettangolo {
+.rettangolo {
   border: 1px solid black;
   width: 90px;
   height: 40px;
@@ -66,16 +66,27 @@ header {
   color: gray;
 }
 
+
+.mark {
+  border: 1px solid seagreen;
+  color: seagreen;
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  text-align: center;
+
+}
+
+
 .first-list {
   height: 100px;
   border: 1px solid black;
-  font-weight: bold;
   font-size: 1.5rem;
 
 }
 
 .font {
-  font-size: 3rem;
+  font-size: 1rem;
   vertical-align: middle;
 }
 
